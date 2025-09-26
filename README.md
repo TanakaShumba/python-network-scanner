@@ -1,15 +1,17 @@
 # Python Network Scanner
 
-## Description
-This Python project scans a local network to detect active devices and their open ports. It's safe and educational, ideal for learning network security and Python programming.
+## Purpose
+Scans local networks to discover devices and open ports using Python. Helps identify potential vulnerabilities.
 
 ## Features
-- Scan a subnet (e.g., 192.168.1.0/24)
-- Detect active hosts
-- List open TCP ports for each host
+- Key features and functionalities of the project
 
-## Requirements
-- Python 3.x
+## Installation / Usage
+- How to install and run the project
+- Example usage if applicable
 
-## How to Run
-1. Clone this repository:
+## Tech Stack
+- Python, Libraries, Tools used
+
+## Notes
+- Any special notes or warnings

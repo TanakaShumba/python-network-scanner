@@ -1,17 +1,16 @@
 # Python Network Scanner
 
-## Purpose
-Scans local networks to discover devices and open ports using Python. Helps identify potential vulnerabilities.
+A simple Python-based network scanner for educational and security testing purposes.
 
-## Features
-- Key features and functionalities of the project
+## About
+This tool scans a given IP or subnet for open ports and responsive hosts.
 
-## Installation / Usage
-- How to install and run the project
-- Example usage if applicable
+> ⚠️ **Legal Note:** Use this tool only on networks you own or have explicit permission to test.
 
-## Tech Stack
-- Python, Libraries, Tools used
-
-## Notes
-- Any special notes or warnings
+## Installation
+```bash
+git clone https://github.com/TanakaShumba/python-network-scanner.git
+cd python-network-scanner
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
